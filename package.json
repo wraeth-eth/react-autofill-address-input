@@ -1,5 +1,8 @@
 {
   "name": "react-autofill-address-input",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/wraeth-eth"
+  },
   "version": "0.1.0",
   "description": "Apply location auto fill simply with a react address input component.",
   "author": "Lachlan McCulloch",
